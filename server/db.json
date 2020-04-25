@@ -1,0 +1,76 @@
+{
+    "ubicaciones": [
+        {
+            "usuario": "Johao",
+            "longitud": -0.220071,
+            "latitud": -78.506284,
+            "casa":"Casa de Johao Perlaza"
+        },
+        {
+            "usuario": "Juan",
+            "longitud": -0.0960491,
+            "latitud": -78.3062059,
+            "casa":"Casa de Juan Rojas"
+        },
+        {
+            "usuario": "Roger",
+            "longitud": -0.083019,
+            "latitud": -78.495852,
+            "casa":"Casa de Roger Cedeño"
+        },
+        {
+            "usuario": "Joel",
+            "longitud": -0.207011,
+            "latitud": -78.524207,
+            "casa": "Casa de Joel"
+        },
+        {
+            "usuario": "Christian",
+            "longitud": -0.002280,
+            "latitud": -78.457977,
+            "casa": "Casa Christian"
+        },
+        {
+            "usuario": "Kevin",
+            "longitud": -0.215391,
+            "latitud": -78.514949,
+            "casa": "Casa Kevin"
+        },
+        {
+            "usuario": "Noemi",
+            "longitud": -0.332345,
+            "latitud":  -78.533779,
+            "casa": "Casa Noemi"
+        },        
+        {
+            "usuario": "Sebastian",
+            "longitud": -0.238238,
+            "latitud": -78.537097,
+            "casa": "Casa Sebastian"
+        },
+        {
+            "usuario": "Sedric",
+            "longitud": -0.309369,
+            "latitud": -78.571886,
+            "casa": "Casa Sedric"
+        },
+        {
+            "usuario": "Paola",
+            "longitud": -0.257768,
+            "latitud":  -78.451016,
+            "casa": "Casa Paola"
+        },
+        {
+            "usuario": "algoritmun",
+            "longitud": -0.168425, 
+            "latitud":  -78.488833,
+            "casa": "Algoritmun"
+        },
+        {
+            "usuario": "algoritmun",
+            "longitud": -0.168425, 
+            "latitud":  -78.488833,
+            "casa": "Algoritmun"
+        }
+    ]
+}
